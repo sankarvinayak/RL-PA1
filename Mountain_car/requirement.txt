@@ -1,0 +1,6 @@
+numpy
+argparse
+gymnasium
+tqdm
+matplotlib
+os 

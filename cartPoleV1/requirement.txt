@@ -1,0 +1,8 @@
+gymnasium
+numpy
+tqdm
+matplotlib
+wandb
+argparse
+time
+pandas
